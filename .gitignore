@@ -91,3 +91,7 @@ Thumbs.db
 *~
 *.swp
 *.bak
+
+# SSH Keys (never commit private keys\!)
+*.key
+*.key.pub

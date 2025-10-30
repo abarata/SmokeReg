@@ -36,6 +36,10 @@ This documentation folder contains comprehensive information about the SmokeReg 
 - **[TROUBLESHOOTING.md](./TROUBLESHOOTING.md)** - Common issues and solutions
 - **[CHANGES.md](./CHANGES.md)** - Version history and detailed changelog
 
+### Version Control
+- **[GIT_WORKFLOW.md](./GIT_WORKFLOW.md)** - Complete Git workflow and GitHub operations
+- **[GITHUB_SETUP.md](../GITHUB_SETUP.md)** - GitHub authentication and first push setup
+
 ---
 
 ## 🚀 Quick Start Guide
