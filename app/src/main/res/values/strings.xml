@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SmokeReg</string>
+    <string name="main_title">SmokeReg</string>
+    <string name="register_smoke">Register Smoke</string>
+    <string name="adjust_time">Adjust Time</string>
+    <string name="avoidable_checkbox">This was an avoidable smoke</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="home">Home</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="this_week">This Week</string>
+    <string name="this_month">This Month</string>
+    <string name="this_year">This Year</string>
+    <string name="total_format">%d total</string>
+    <string name="avoidable_format">(%d avoidable)</string>
+    <string name="edit_entry">Edit Entry</string>
+    <string name="select_date_time">Select Date and Time</string>
+    <string name="no_entries_today">No entries today</string>
+    <string name="entry_added">Smoke registered</string>
+    <string name="entry_updated">Entry updated</string>
+    <string name="entry_deleted">Entry deleted</string>
+    <string name="error_saving">Error saving data</string>
+    <string name="error_loading">Error loading data</string>
+    <string name="confirm_delete">Are you sure you want to delete this entry?</string>
+    <string name="todays_entries">Today\'s Entries</string>
+    <string name="statistics">Statistics</string>
+</resources>

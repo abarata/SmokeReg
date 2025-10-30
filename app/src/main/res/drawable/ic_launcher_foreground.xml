@@ -1,0 +1,62 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cigar icon with modern design -->
+    <group android:scaleX="0.6"
+        android:scaleY="0.6"
+        android:translateX="21.6"
+        android:translateY="21.6">
+        <!-- Cigar body -->
+        <path
+            android:fillColor="#8B4513"
+            android:pathData="M20,45 L80,50 L80,60 L20,55 Z"/>
+        <!-- Cigar wrapper texture lines -->
+        <path
+            android:strokeColor="#654321"
+            android:strokeWidth="0.5"
+            android:pathData="M25,46 L25,54 M30,47 L30,54 M35,47 L35,54 M40,48 L40,55 M45,48 L45,56 M50,49 L50,57 M55,49 L55,58 M60,50 L60,58 M65,50 L65,59 M70,50 L70,59 M75,50 L75,59"/>
+        <!-- Cigar tip (lit end) -->
+        <path
+            android:fillColor="#FF4500"
+            android:pathData="M15,47 A5,4 0 0,1 20,45 L20,55 A5,4 0 0,1 15,53 Z"/>
+        <!-- Ember glow -->
+        <path
+            android:fillColor="#FF6347"
+            android:pathData="M12,48 A3,3 0 0,1 15,47 L15,53 A3,3 0 0,1 12,52 Z"/>
+        <!-- Bright ember center -->
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M10,49 A2,2 0 0,1 12,48 L12,52 A2,2 0 0,1 10,51 Z"/>
+        <!-- Smoke -->
+        <path
+            android:fillColor="#E0E0E0"
+            android:fillAlpha="0.6"
+            android:pathData="M8,45 Q5,40 7,35 Q9,30 6,25 Q4,20 8,15"/>
+        <path
+            android:fillColor="#D0D0D0"
+            android:fillAlpha="0.5"
+            android:pathData="M11,43 Q14,38 12,33 Q10,28 13,23 Q15,18 12,13"/>
+        <!-- Cigar band (label) -->
+        <path
+            android:fillColor="#C0C0C0"
+            android:pathData="M60,48 L70,49 L70,61 L60,60 Z"/>
+        <!-- Band gold accent -->
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M62,50 L68,50.5 L68,58.5 L62,58 Z"/>
+        <!-- Band text/design -->
+        <path
+            android:strokeColor="#8B4513"
+            android:strokeWidth="1"
+            android:pathData="M64,52 L66,52 M64,54 L66,54 M64,56 L66,56"/>
+        <!-- Cut end detail -->
+        <path
+            android:fillColor="#654321"
+            android:pathData="M80,50 L85,52 L85,58 L80,60 Z"/>
+        <path
+            android:fillColor="#8B4513"
+            android:pathData="M83,53 A2,2.5 0 1,1 83,57 A2,2.5 0 1,1 83,53 Z"/>
+    </group>
+</vector>
