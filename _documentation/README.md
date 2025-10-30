@@ -37,6 +37,7 @@ This documentation folder contains comprehensive information about the SmokeReg 
 - **[CHANGES.md](./CHANGES.md)** - Version history and detailed changelog
 
 ### Version Control
+- **⚠️ [GIT_RULES.md](../GIT_RULES.md)** - **CRITICAL: Git repository rules (READ FIRST!)**
 - **[GIT_WORKFLOW.md](./GIT_WORKFLOW.md)** - Complete Git workflow and GitHub operations
 - **[GITHUB_SETUP.md](../GITHUB_SETUP.md)** - GitHub authentication and first push setup
 

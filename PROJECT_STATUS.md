@@ -6,6 +6,25 @@
 
 ---
 
+## ⚠️ CRITICAL GIT RULE ⚠️
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║  🚨 NEVER commit/push to GitHub without EXPLICIT user request!      ║
+║                                                                       ║
+║  ALL Git operations (commit, push, pull, merge) require              ║
+║  EXPLICIT permission from the project owner.                         ║
+║                                                                       ║
+║  It will ALWAYS be the USER asking to sync the repository.           ║
+║                                                                       ║
+║  See: _documentation/GIT_WORKFLOW.md for complete rules              ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
 ## 📱 Current State
 
 The SmokeReg Android app is fully functional and production-ready. All core features are implemented and tested.

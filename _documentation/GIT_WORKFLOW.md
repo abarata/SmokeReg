@@ -5,6 +5,49 @@
 
 ---
 
+## ⚠️ CRITICAL RULE - READ FIRST ⚠️
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║  🚨 NEVER, NEVER and NEVER do a sync/commit/push without being      ║
+║     EXPLICITLY ASKED by the project owner!                           ║
+║                                                                       ║
+║  ✋ ALL Git operations (commit, push, pull, merge) must be           ║
+║     EXPLICITLY REQUESTED by the user.                                ║
+║                                                                       ║
+║  👤 It will ALWAYS be the USER asking to update, commit, or sync    ║
+║     anything to the repository.                                      ║
+║                                                                       ║
+║  ❌ DO NOT commit automatically                                      ║
+║  ❌ DO NOT push automatically                                        ║
+║  ❌ DO NOT sync automatically                                        ║
+║  ❌ DO NOT assume changes should be committed                        ║
+║                                                                       ║
+║  ✅ ONLY perform Git operations when explicitly instructed           ║
+║                                                                       ║
+║  This is a VERY IMPORTANT RULE!                                      ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+**This rule applies to:**
+- AI assistants working on this project
+- Automated tools and scripts
+- CI/CD pipelines (when configured)
+- Any contributor to this repository
+
+**Git operations require explicit user permission:**
+- ❌ `git commit` - NEVER without explicit request
+- ❌ `git push` - NEVER without explicit request
+- ❌ `git pull` - NEVER without explicit request
+- ❌ `git merge` - NEVER without explicit request
+- ⚠️ `git status` - Allowed (read-only)
+- ⚠️ `git log` - Allowed (read-only)
+- ⚠️ `git diff` - Allowed (read-only)
+
+---
+
 ## 📋 Table of Contents
 
 1. [Initial Setup](#initial-setup)

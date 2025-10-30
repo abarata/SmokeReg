@@ -5,6 +5,31 @@
 
 ---
 
+## ⚠️ CRITICAL RULE ⚠️
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║  🚨 NEVER, NEVER and NEVER do a sync/commit/push without being      ║
+║     EXPLICITLY ASKED by the project owner!                           ║
+║                                                                       ║
+║  ✋ ALL Git operations (commit, push, pull, merge) must be           ║
+║     EXPLICITLY REQUESTED by the user.                                ║
+║                                                                       ║
+║  👤 It will ALWAYS be the USER asking to update, commit, or sync    ║
+║     anything to the repository.                                      ║
+║                                                                       ║
+║  ❌ DO NOT commit automatically                                      ║
+║  ❌ DO NOT push automatically                                        ║
+║  ❌ DO NOT sync automatically                                        ║
+║                                                                       ║
+║  This is a VERY IMPORTANT RULE!                                      ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
 ## Current Status
 
 ✅ Git repository initialized

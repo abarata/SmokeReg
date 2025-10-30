@@ -45,7 +45,12 @@ For comprehensive documentation, see the **`_documentation/`** folder:
 - **[Setup Guide](_documentation/SETUP.md)** - Development environment setup
 - **[Build & Deploy](_documentation/BUILD_DEPLOY.md)** - Building and deployment
 - **[Troubleshooting](_documentation/TROUBLESHOOTING.md)** - Common issues and solutions
+- **[Git Workflow](_documentation/GIT_WORKFLOW.md)** - Git operations and rules
 - And more...
+
+### ⚠️ Version Control Rule
+
+**CRITICAL:** All Git operations (commit, push, pull, merge) to this repository require **EXPLICIT user permission**. See [GIT_WORKFLOW.md](_documentation/GIT_WORKFLOW.md) for complete rules.
 
 ### Project Structure
 ```
